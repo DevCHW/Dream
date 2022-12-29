@@ -14,15 +14,10 @@
 
 - [📖 프로젝트 소개](#about-project)
   - [🛠 개발환경](#built-with)
-    - [사용기술](#tech-stack)
+  - [:zap:사용기술](#tech-stack)
   - [🚀 Live Demo](#live-demo)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
-- [📝 License](#license)
+  - [:mag:화면설계 및 기능구현](#overview)
+- [👥 Dream개발자](#authors)
 
 <!-- PROJECT DESCRIPTION -->
 
@@ -30,34 +25,32 @@
 
 > Dream은 ~ 입니다.
 
-**[your_project__name]** is a...
+## 🛠 개발환경 <a name="built-with"></a>
+- OS : windows 10
+- server : Apache Tomcat 9.0.65
+- DB : Oracle18c 
+- FrameWork/Flatform :  Jquery, Bootstrap
+- Language : Java, JavaScript, HTML, CSS
+- Web : JSP/Servlet
+- Tool : Eclipse, Github, SQL Developer
+- API : Kakao 우편번호
 
-## 🛠 Built With <a name="built-with"></a>
+## :zap:사용기술 <a name="tech-stack"></a>
 
-### Tech Stack <a name="tech-stack"></a>
+**Front-end**
+<br><br>
+<img src="https://img.shields.io/badge/HTML5-00599C?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-F6C915?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/jQuery-red?style=flat-square&logo=jQuery&logoColor=white"/>
+<img src="https://img.shields.io/badge/AJAX -black?style=flat-square&logo=AJAX &logoColor=white"/>
+    
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
+**Back-end** 
+<br><br>
+<img src="https://img.shields.io/badge/JDK 1.8-important?style=flat-square&logo=JDK &logoColor=white"/>
+<img src="https://img.shields.io/badge/JSP-yellowgreen?style=flat-square&logo=JSP&logoColor=white"/>
+<img src="https://img.shields.io/badge/JSTL-blue?style=flat-square&logo=JSTL&logoColor=white"/>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -70,6 +63,16 @@
 
 - [Live Demo Link](https://yourdeployedapplicationlink.com)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- overview -->
+## :mag:화면설계 및 기능구현 <a name="overview"></a>
+화면설계 및 기능구현<br>
+화면설계 및 기능구현<br>
+화면설계 및 기능구현<br>
+화면설계 및 기능구현<br>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -112,72 +115,3 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
-
-## 🤝 Contributing <a name="contributing"></a>
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- SUPPORT -->
-
-## ⭐️ Show your support <a name="support"></a>
-
-> Write a message to encourage readers to support your project
-
-If you like this project...
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
-
-## 📝 License <a name="license"></a>
-
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-asdf
