@@ -70,6 +70,8 @@
 <!-- overview -->
 ## :mag:화면설계 및 기능구현 <a name="overview"></a>
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/112748454/209933219-11df093d-26fd-445d-8c97-83d2b9dd0b09.gif)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
