@@ -69,10 +69,7 @@
 
 <!-- overview -->
 ## :mag:화면설계 및 기능구현 <a name="overview"></a>
-화면설계 및 기능구현<br>
-화면설계 및 기능구현<br>
-화면설계 및 기능구현<br>
-화면설계 및 기능구현<br>
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
