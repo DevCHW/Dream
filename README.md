@@ -1,36 +1,10 @@
 <a name="readme-top"></a>
-:octocat:
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
 
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
   <img width="136" alt="logo_1" src="https://user-images.githubusercontent.com/100989788/209924191-7fee7d00-035f-4d2e-ab42-ee95a1a5a586.png">
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>수면용품 전문 쇼핑몰 Dream</b></h3>
 
 </div>
 
@@ -38,18 +12,10 @@ After you're finished please remove all the comments and instructions!
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
+- [📖 프로젝트 소개](#about-project)
+  - [🛠 개발환경](#built-with)
+    - [사용기술](#tech-stack)
   - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -60,9 +26,9 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Dream은...] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> Dream은 ~ 입니다.
 
 **[your_project__name]** is a...
 
@@ -93,15 +59,6 @@ After you're finished please remove all the comments and instructions!
   </ul>
 </details>
 
-<!-- Features -->
-
-### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
-
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -115,107 +72,43 @@ After you're finished please remove all the comments and instructions!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
-
-## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
-
-To get a local copy up and running, follow these steps.
-
-### Prerequisites
-
-In order to run this project you need:
-
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
-
-### Setup
-
-Clone this repository to your desired folder:
-
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
-
-### Install
-
-Install this project with:
-
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
-
-### Usage
-
-To run the project, execute the following command:
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
-
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Dream개발자 <a name="authors"></a>
+👤 **장진영** [:octocat:](https://github.com/hedgehog9)
 
-> Mention all of the collaborators of this project.
+- 로그인
+- 구매내역
+- 배송관리
+- 상품등록
 
-👤 **Author1**
+👤 **최현우** [:octocat:](https://github.com/hyunwoocastle)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- 회원가입
+- 상품페이지
+- 메인페이지
+- 공지사항
 
-👤 **Author2**
+👤 **조상운** [:octocat:](https://github.com/tkddns6621)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- 장바구니
+- 회원정보
+- 회원정보 수정
+- 회원조회
+
+👤 **황광빈** [:octocat:](https://github.com/GGWANGBIN)
+
+- 결제정보
+- 주소록
+- 회원관리
+
+👤 **김진석** [:octocat:](https://github.com/DGJSKIM)
+
+- 결제기능
+- 포인트
+- 상품관리
+- 상품 상세보기
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
