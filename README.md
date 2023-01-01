@@ -122,10 +122,32 @@
 
 👤 **김진석** [:octocat:](https://github.com/DGJSKIM)
 
-- 결제기능
-- 포인트
-- 상품관리
-- 상품 상세보기
+## 결제기능
+- 구매할 제품의 옵션 조회 기능
+- 등록한 주소지 정보를 페이징처리하여 나열하고 선택하는 배송지 선택 기능
+- 보유한 포인트량을 보여주고, 포인트를 사용하여 구매가격을 변경하는 기능
+- 구매전 체크사항을 모두 체크한 뒤 결제를 진행하며
+  결제시에는 아임포트 api를 활용하여 결제를 진행
+![image](https://user-images.githubusercontent.com/113486147/210169946-4bea9e18-ce2f-4dc0-bd6b-17cfc8610463.png)
+
+## 포인트
+- 잔여 포인트 확인가능
+- 포인트 사용방법 간단 소개
+- 적립/사용 내역 조회기능
+![image](https://user-images.githubusercontent.com/113486284/210171330-a41ed1be-e660-4c43-bfd8-e4a92c42735b.PNG)
+
+## 상품관리
+- 관리자로 로그인시에만 제품 수정버튼이 활성화
+- 제품명, 가격, 할인율, 제품이미지 (추가, 제거), 제품설명 수정기능
+![image](https://user-images.githubusercontent.com/113486284/210171339-77b5f309-ce9b-4fee-aa2f-26147ea501fb.PNG)
+
+## 상품상세보기
+- 제품의 정보(분류, 가격, 할인율, 관심표기 등) 표기기능
+- 제품의 옵션을 조회하고 옵션별로 구매수량 조절 기능
+- 구매버튼이 보이지 않을시 하단바에 구매바 자동노출기능
+- 제품의 이미지가 제품정보를 스크롤하는 동안에 항상 같은 위치에 고정
+![image](https://user-images.githubusercontent.com/113486284/210171342-385ce497-82a6-4862-8871-d065feaae390.PNG)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
