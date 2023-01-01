@@ -156,6 +156,32 @@
 <img width="947" alt="로그인" src="https://user-images.githubusercontent.com/100989788/210174336-a2106f0d-037f-4290-8368-850f6e3120d5.png">
 
 
+## 구매내역
+- 회원의 구매내역 조회 
+- 기간별(오름차순, 내림차순) , 배송 상태별 구매내역 조회 
+- 페이징 처리 
+<img width="343" alt="구매내역 구매중" src="https://user-images.githubusercontent.com/100989788/210174931-4b95f17b-c4c9-46f1-805a-7cabf4056181.png">
+
+## 구매내역 상세보기
+- 한상품에 대한 구매내역 상세 정보 출력 
+<img width="493" alt="2" src="https://user-images.githubusercontent.com/100989788/210175003-5eef9811-4378-4fa7-aa7e-52cfd7afb35e.png">
+
+## 상품 등록 
+- 관리자로 로그인한 경우에만 상품등록 가능
+- 이미지 업로드 기능 
+- 상품 사이즈별 수량 등록
+- 사이즈가 없는 상품의 경우 free size로 일괄 등록 
+<img width="354" alt="제목 없음" src="https://user-images.githubusercontent.com/100989788/210175058-0756db5a-ef4b-41e9-97a1-446db207c8b7.png">
+
+## 배송관리 
+- 관리자로 로그인한 경우에만 배송관리 접근 가능
+- 배송 상태에 해당하는 주문내역 출력 
+- 일괄 배송하기 기능 
+- 주문번호 클릭시 주문자 상세 정보 출력 
+<img width="378" alt="제목 없음" src="https://user-images.githubusercontent.com/100989788/210175131-ec63bec0-e9a7-46ce-955c-d485b5a30938.png">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
 
