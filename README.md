@@ -148,6 +148,14 @@
 - 제품의 이미지가 제품정보를 스크롤하는 동안에 항상 같은 위치에 고정
 ![image](https://user-images.githubusercontent.com/113486284/210171342-385ce497-82a6-4862-8871-d065feaae390.PNG)
 
+## 로그인
+- 멤버십 가입여부 , 비밀번호 변경 한달 초과, 탈퇴, 휴면 여부 검사 후 로그인 처리
+- session 방식 로그인 처리 
+- 이메일 찾기의 경우 가입시 입력했던 핸드폰번호 입력 시 아이디의 일부분 출력 
+- 비밀번호 찾기의 경우 핸드폰번호로 임시 비밀번호 발급 
+<img width="947" alt="로그인" src="https://user-images.githubusercontent.com/100989788/210174336-a2106f0d-037f-4290-8368-850f6e3120d5.png">
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
