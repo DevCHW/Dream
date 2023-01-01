@@ -128,7 +128,7 @@
 - 보유한 포인트량을 보여주고, 포인트를 사용하여 구매가격을 변경하는 기능
 - 구매전 체크사항을 모두 체크한 뒤 결제를 진행하며
   결제시에는 아임포트 api를 활용하여 결제를 진행
-![image](https://user-images.githubusercontent.com/113486147/210169946-4bea9e18-ce2f-4dc0-bd6b-17cfc8610463.png)
+![image](https://user-images.githubusercontent.com/113486284/210171334-9733969b-608d-44f7-8f0a-8aec2fc0f976.PNG)
 
 ## 포인트
 - 잔여 포인트 확인가능
