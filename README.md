@@ -94,7 +94,8 @@
 - 회원가입을 통하여 드림의 회원이 될 수 있습니다.
 - 이메일인증, 휴대폰인증을 거쳐야 하고 유효성검사를 통과하여야 합니다.
 
-회원가입이미지!!!!!!!!!!!!!!!!!!!!!!!
+![드림회원가입](https://user-images.githubusercontent.com/112748454/210203549-3eba4077-aaec-43cb-a356-3e6f06f0dbf9.PNG)
+
 
 <br>
 
@@ -123,6 +124,11 @@
 ![드림 검색](https://user-images.githubusercontent.com/112748454/210203472-c43acb97-f674-4f69-b33a-ce9a2aed72de.PNG)
 
 <br>
+
+## 관심상품
+- 관심상품으로 등록한 상품들의 목록을 확인할 수 있습니다.
+
+![드림관심상품](https://user-images.githubusercontent.com/112748454/210203555-1a71efd1-2471-4a7f-b633-9a7eab80a68f.PNG)
 
 ## 결제정보
 - 결제수단 추가,삭제 가능
