@@ -72,7 +72,7 @@
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/112748454/209933219-11df093d-26fd-445d-8c97-83d2b9dd0b09.gif)
 
-<br>
+<br><br>
 
 ## 장바구니
 - ajax통신을 활용하여 비동기 수량변경, 제품삭제 등이 가능
@@ -80,7 +80,7 @@
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/65589607/210170179-0dcd2964-d8e6-498b-814d-4e56b21fbf80.gif)
 
-<br>
+<br><br>
 
 ## 마이프로필
 - 비밀번호, 닉네임 등등 유효성검사를 script 로 진행
@@ -88,7 +88,7 @@
 
 ![마이프로필](https://user-images.githubusercontent.com/65589607/210170374-b4274ecd-250e-4db4-bbe6-0e254c6d137e.gif)
 
-<br>
+<br><br>
 
 ## 회원가입
 - 회원가입을 통하여 드림의 회원이 될 수 있습니다.
@@ -97,7 +97,7 @@
 ![드림회원가입](https://user-images.githubusercontent.com/112748454/210203549-3eba4077-aaec-43cb-a356-3e6f06f0dbf9.PNG)
 
 
-<br>
+<br><br>
 
 ## 상품목록
 - 다중필터를 통하여 여러가지 방식으로 상품을 볼 수 있습니다.
@@ -106,7 +106,7 @@
 
 ![드림상품목록](https://user-images.githubusercontent.com/112748454/210203401-c62eac4f-4309-4b3e-8f5f-8170d5a1aee7.gif)
 
-<br>
+<br><br>
 
 ## 고객센터
 - 관리자가 등록한 공지사항 / 자주묻는질문에 대한 답변을 볼 수 있습니다.
@@ -123,7 +123,7 @@
 
 ![드림 검색](https://user-images.githubusercontent.com/112748454/210203472-c43acb97-f674-4f69-b33a-ce9a2aed72de.PNG)
 
-<br>
+<br><br>
 
 ## 관심상품
 - 관심상품으로 등록한 상품들의 목록을 확인할 수 있습니다.
@@ -136,7 +136,7 @@
   원하는 결제수단을 기본결제수단으로 설정 가능
 ![image](https://user-images.githubusercontent.com/113486147/210169753-e852ff2a-6373-41e6-80e5-92e20d10ba9d.png)
 
-<br>
+<br><br>
 
 ## 주소록
 - 배송지 추가,수정,삭제 가능
@@ -144,7 +144,7 @@
   원하는 배송지를 기본배송지로 설정 가능
 ![image](https://user-images.githubusercontent.com/113486147/210169492-06852dee-6d45-43d2-b1a0-30d2d0140e06.png)
 
-<br>
+<br><br>
 
 ## 회원관리
 - 회원정보 확인가능(개인정보,가입일자,탈퇴유무,휴면유무,멤버쉽여부)
@@ -163,7 +163,7 @@
   결제시에는 아임포트 api를 활용하여 결제를 진행
 ![image](https://user-images.githubusercontent.com/113486284/210171334-9733969b-608d-44f7-8f0a-8aec2fc0f976.PNG)
 
-<br>
+<br><br>
 
 ## 포인트
 - 잔여 포인트 확인가능
@@ -171,14 +171,14 @@
 - 적립/사용 내역 조회기능
 ![image](https://user-images.githubusercontent.com/113486284/210171330-a41ed1be-e660-4c43-bfd8-e4a92c42735b.PNG)
 
-<br>
+<br><br>
 
 ## 상품관리
 - 관리자로 로그인시에만 제품 수정버튼이 활성화
 - 제품명, 가격, 할인율, 제품이미지 (추가, 제거), 제품설명 수정기능
 ![image](https://user-images.githubusercontent.com/113486284/210171339-77b5f309-ce9b-4fee-aa2f-26147ea501fb.PNG)
 
-<br>
+<br><br>
 
 ## 상품상세보기
 - 제품의 정보(분류, 가격, 할인율, 관심표기 등) 표기기능
@@ -187,7 +187,7 @@
 - 제품의 이미지가 제품정보를 스크롤하는 동안에 항상 같은 위치에 고정
 ![image](https://user-images.githubusercontent.com/113486284/210171342-385ce497-82a6-4862-8871-d065feaae390.PNG)
 
-<br>
+<br><br>
 
 ## 로그인
 - 멤버십 가입여부 , 비밀번호 변경 한달 초과, 탈퇴, 휴면 여부 검사 후 로그인 처리
@@ -196,7 +196,7 @@
 - 비밀번호 찾기의 경우 핸드폰번호로 임시 비밀번호 발급 
 <img width="947" alt="로그인" src="https://user-images.githubusercontent.com/100989788/210174336-a2106f0d-037f-4290-8368-850f6e3120d5.png">
 
-<br>
+<br><br>
 
 ## 구매내역
 - 회원의 구매내역 조회 
@@ -204,13 +204,13 @@
 - 페이징 처리 
 <img width="343" alt="구매내역 구매중" src="https://user-images.githubusercontent.com/100989788/210174931-4b95f17b-c4c9-46f1-805a-7cabf4056181.png">
 
-<br>
+<br><br>
 
 ## 구매내역 상세보기
 - 한상품에 대한 구매내역 상세 정보 출력 
 <img width="493" alt="2" src="https://user-images.githubusercontent.com/100989788/210175003-5eef9811-4378-4fa7-aa7e-52cfd7afb35e.png">
 
-<br>
+<br><br>
 
 ## 상품등록 
 - 관리자로 로그인한 경우에만 상품등록 가능
@@ -219,7 +219,7 @@
 - 사이즈가 없는 상품의 경우 free size로 일괄 등록 
 <img width="354" alt="제목 없음" src="https://user-images.githubusercontent.com/100989788/210175058-0756db5a-ef4b-41e9-97a1-446db207c8b7.png">
 
-<br>
+<br><br>
 
 ## 배송관리 
 - 관리자로 로그인한 경우에만 배송관리 접근 가능
