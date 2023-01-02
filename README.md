@@ -128,7 +128,7 @@
 ## 관심상품
 - 관심상품으로 등록한 상품들의 목록을 확인할 수 있습니다.
 
-![드림관심상품](https://user-images.githubusercontent.com/112748454/210203555-1a71efd1-2471-4a7f-b633-9a7eab80a68f.PNG)
+![드림관심상품](https://user-images.githubusercontent.com/112748454/210204133-2372e2fc-56fd-4205-92f9-0789e2ea7e67.PNG)
 
 ## 결제정보
 - 결제수단 추가,삭제 가능
