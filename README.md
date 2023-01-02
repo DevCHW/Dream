@@ -23,7 +23,7 @@
 
 # 📖 [Dream은...] <a name="about-project"></a>
 
-> Dream은 ~ 입니다.
+> 편안한 수면을 위한 수면용품 전용 쇼핑몰 Dream 입니다.
 
 ## 🛠 개발환경 <a name="built-with"></a>
 - OS : windows 10
