@@ -72,6 +72,20 @@
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/112748454/209933219-11df093d-26fd-445d-8c97-83d2b9dd0b09.gif)
 
+<br><br>
+## 장바구니
+- ajax통신을 활용하여 비동기 수량변경, 제품삭제 등이 가능
+- KG이니시스 API로 결제기능 구현
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/65589607/210170179-0dcd2964-d8e6-498b-814d-4e56b21fbf80.gif)
+
+<br><br>
+## 마이프로필
+- 비밀번호, 닉네임 등등 유효성검사를 script 로 진행
+- 휴대폰 번호 변경은 변경한 번호에 문자를 보내어 인증
+
+![마이프로필](https://user-images.githubusercontent.com/65589607/210170374-b4274ecd-250e-4db4-bbe6-0e254c6d137e.gif)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
