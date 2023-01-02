@@ -70,15 +70,22 @@
 <!-- overview -->
 ## :mag:화면설계 및 기능구현 <a name="overview"></a>
 
+<details>
+<summary>보기</summary>
+<div markdown="1">       
+
+
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/112748454/209933219-11df093d-26fd-445d-8c97-83d2b9dd0b09.gif)
 
 <br><br>
 
-## 장바구니
+
 - ajax통신을 활용하여 비동기 수량변경, 제품삭제 등이 가능
 - KG이니시스 API로 결제기능 구현
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/65589607/210170179-0dcd2964-d8e6-498b-814d-4e56b21fbf80.gif)
+
+
 
 <br><br>
 
@@ -229,6 +236,11 @@
 <img width="378" alt="제목 없음" src="https://user-images.githubusercontent.com/100989788/210175131-ec63bec0-e9a7-46ce-955c-d485b5a30938.png">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+</div>
+</details>
+
+
+
 
 
 <!-- AUTHORS -->
