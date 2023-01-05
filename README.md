@@ -15,7 +15,6 @@
 - [📖 프로젝트 소개](#about-project)
   - [🛠 개발환경](#built-with)
   - [:zap:사용기술](#tech-stack)
-  - [🚀 Live Demo](#live-demo)
   - [:mag:화면설계 및 기능구현](#overview)
 - [👥 Dream개발자](#authors)
 
@@ -52,16 +51,6 @@
 <img src="https://img.shields.io/badge/JSP-yellowgreen?style=flat-square&logo=JSP&logoColor=white"/>
 <img src="https://img.shields.io/badge/JSTL-blue?style=flat-square&logo=JSTL&logoColor=white"/>
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
