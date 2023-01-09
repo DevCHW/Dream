@@ -60,7 +60,7 @@
 ## :mag:화면설계 및 기능구현 <a name="overview"></a>
 
 <details>
-<summary>보기</summary>
+<summary>보기(클릭)</summary>
 <div markdown="1">       
 
 
