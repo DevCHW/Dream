@@ -15,7 +15,7 @@
 - [📖 프로젝트 소개](#about-project)
   - [🛠 개발환경](#built-with)
   - [:zap:사용기술](#tech-stack)
-  - [:mag:화면설계 및 기능구현](#overview)
+  - [:mag:UI/UX](#overview)
 - [👥 Dream개발자](#authors)
 
 <!-- PROJECT DESCRIPTION -->
@@ -56,7 +56,7 @@
 
 
 <!-- overview -->
-## :mag:화면설계 및 기능구현 <a name="overview"></a>
+## :mag:UI/UX <a name="overview"></a>
 
 <details>
 <summary>보기(클릭)</summary>
