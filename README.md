@@ -31,8 +31,7 @@
 - FrameWork/Flatform :  Jquery, Bootstrap
 - Language : Java, JavaScript, HTML, CSS
 - Web : JSP/Servlet
-- Tool : Eclipse, Github, SQL Developer
-- API : Kakao 우편번호
+- Tool : Eclipse, Github, SQL Developer, VS code
 
 ## :zap:사용기술 <a name="tech-stack"></a>
 
