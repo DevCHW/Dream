@@ -4,7 +4,7 @@
   <img width="136" alt="logo_1" src="https://user-images.githubusercontent.com/100989788/209924191-7fee7d00-035f-4d2e-ab42-ee95a1a5a586.png">
   <br/>
 
-  <h3><b>수면용품 전문 쇼핑몰 Dream</b></h3>
+  <h3><b>수면용품 판매 쇼핑몰 Dream</b></h3>
 
 </div>
 
@@ -16,7 +16,7 @@
   - [🛠 개발환경](#built-with)
   - [:zap:사용기술](#tech-stack)
   - [:mag:UI/UX](#overview)
-- [👥 Dream개발자](#authors)
+- [👥 Developer](#authors)
 
 <!-- PROJECT DESCRIPTION -->
 
@@ -232,7 +232,7 @@
 
 
 <!-- AUTHORS -->
-## 👥 Dream개발자 <a name="authors"></a>
+## 👥 Developer <a name="authors"></a>
 👤 **장진영** [:octocat:](https://github.com/hedgehog9)
 
 - 로그인
